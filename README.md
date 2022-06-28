@@ -1,2 +1,2 @@
-# proects
+# projects
 python projects
